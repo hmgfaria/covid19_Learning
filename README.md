@@ -5,5 +5,5 @@ All about learning Python, Git and GitHub.
 - A Jupyter notebook containing some data visualizations
 
 ## Data source:
-[DSSG-PT's Covid-19 repository]("https://github.com/dssg-pt/covid19pt-data")
+🇵🇹 [DSSG-PT's Covid-19 repository](https://github.com/dssg-pt/covid19pt-data)
 
